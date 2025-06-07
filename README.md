@@ -9,3 +9,7 @@ Dedicated to progress and technological evolution in science.
 Mountain View, CA
 abs215@g.harvard.edu
 650.567.4289
+
+Here is Aarno Suzar's Linkedin profile:
+https://www.linkedin.com/in/aaron-suzar-594559319/
+
