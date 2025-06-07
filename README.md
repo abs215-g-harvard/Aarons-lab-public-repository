@@ -1,6 +1,6 @@
 # Aarons-lab-public-repository
 
-THis is Aaron Suzar's public repository for datasets, code and other project components from within Aaron's Lab Project. Aaron's Lab Project can be found on the web at the following address:
+This is Aaron Suzar's public repository for datasets, code and other project components from within Aaron's Lab Project. Aaron's Lab Project can be found on the web at the following address:
 
 https://aaronslabproject.com
 
